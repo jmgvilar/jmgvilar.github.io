@@ -17,10 +17,3 @@ permalink: /:title/
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-analytics :
-  provider : google
-  google : 
-    tracking_id : 'UA-2362929-3'
-  getclicky :
-    site_id : 
