@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title:  "European Union Big Data Technologies Horizon Prize"
-subtitle:   "Winning (1st place) solution description"
+subtitle:   "Winning solution description"
 date:   2018-12-19 00:00:00
 author:     "Jose Vilar"
 background: '/img/bg-post.jpg'
