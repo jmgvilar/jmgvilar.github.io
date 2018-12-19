@@ -1,0 +1,26 @@
+title:             Jose Vilar
+email:             j.vilar@ikerbasque.org
+description:       J. M. G. Vilar's Blog
+author:            Jose Vilar
+baseurl:           ""
+url:               "http://jmgvilar.github.io"
+
+# Social Profiles
+#twitter_username:  none
+github_username:   jmgvilar
+#facebook_username: none
+
+# Build settings
+markdown:          kramdown
+paginate:          20
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+analytics :
+  provider : google
+  google : 
+    tracking_id : 'UA-2362929-3'
+  getclicky :
+    site_id : 
